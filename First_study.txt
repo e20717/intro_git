@@ -3,6 +3,8 @@ GitHub study started 2023/02/21.
 git commitします
 
 ２つのファイルを同時にadd commit.
+動作確認 git atatus
+
 
 
 
