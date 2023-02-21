@@ -2,3 +2,6 @@ GitHub study started 2023/02/21.
 初めてのGitHub
 git commitします
 
+２つのファイルを同時にadd commit
+
+
