@@ -4,6 +4,8 @@ git commitします
 
 ２つのファイルを同時にadd commit.
 動作確認 git atatus
+変更の確認
+
 
 
 
